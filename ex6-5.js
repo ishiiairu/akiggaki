@@ -15,3 +15,4 @@ function hanako66() {who66 = '花子';}
 
 
 
+
